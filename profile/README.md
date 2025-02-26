@@ -8,4 +8,4 @@
 ---
 
 状态页面请移步: https://atri.statuspage.io
-Public API Docs: https://atri-bot.apifox.cn
+Public API Docs: https://atri-bot.apifox.cn(咕咕)
