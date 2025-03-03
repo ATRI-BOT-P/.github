@@ -1,5 +1,4 @@
 ## 这里是`ATRI-BOT` 👋
-### 我们公益并自由的支持此项目
 
 ---
 
@@ -8,4 +7,9 @@
 ---
 
 状态页面请移步: https://atri.statuspage.io
-Public API Docs: https://atri-bot.apifox.cn(咕咕)
+
+Public API Docs: https://atri-bot.apifox.cn (文档咕咕中)
+
+---
+
+赞助渠道: https://afdian.com/a/Me0wo
